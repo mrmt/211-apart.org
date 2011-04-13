@@ -4,4 +4,6 @@ http://211-apart.org/about.html
 http://211-apart.org/media.html
 http://211-apart.org/motion4/
 http://211-apart.org/motion3/
+http://211-apart.org/motion3/about.html
 http://211-apart.org/motion3/access.html
+http://211-apart.org/motion3/video.html
