@@ -1,0 +1,3 @@
+http://211-apart.netlify.com/* https://211-apart.org/:splat 301!
+https://211-apart.netlify.com/* https://211-apart.org/:splat 301!
+http://211-apart.org/* https://211-apart.org/:splat 301!
