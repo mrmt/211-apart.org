@@ -1,0 +1,13 @@
+{
+  // Cloudflare Workers (静的アセットのみ) 設定
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "211-apart",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./public"
+  },
+  "routes": [
+    { "pattern": "211-apart.org", "custom_domain": true },
+    { "pattern": "www.211-apart.org", "custom_domain": true }
+  ]
+}
