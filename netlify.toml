@@ -1,3 +1,0 @@
-# Cloudflare移行完了までの暫定設定 (移行後に削除)
-[build]
-  publish = "public"
